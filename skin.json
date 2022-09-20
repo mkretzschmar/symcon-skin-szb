@@ -1,0 +1,10 @@
+{
+    "author": "Marek Kretzschmar",
+    "version": "1.0",
+    "compatible": 1,
+    "url": "http:\/\/www.ip-symcon.de\/forum\/",
+    "git": "https:\/\/github.com\/mkretzschmar\/symcon-skin-szb.git",
+    "icons": [
+
+    ]
+}
