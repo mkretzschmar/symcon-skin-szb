@@ -70,12 +70,12 @@ body {
 div.ipsLogin,
 div.ipsWebFront {
     color: black;
-    background: #f9f9f9;
-    /* Old browsers */
+    background: #002f18;
+    /* Old browsers * /
     background: -moz-radial-gradient(center, ellipse cover, #f9f9f9 0%, #e3e7eb 100%);
-    /* FF3.6-15 */
+    /* FF3.6-15 * /
     background: -webkit-radial-gradient(center, ellipse cover, #f9f9f9 0%, #e3e7eb 100%);
-    /* Chrome10-25,Safari5.1-6 */
+    /* Chrome10-25,Safari5.1-6 * /
     background: radial-gradient(ellipse at center, #f9f9f9 0%, #e3e7eb 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 }
